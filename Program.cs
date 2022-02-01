@@ -26,8 +26,8 @@ namespace Mancala
                 Console.WriteLine("I am thinking about my move now");
                 double highVal = -1.0;
                 int bestMove = 0;
-                double alfa = -1.0;
-                double beta = 1.0;
+                double alfa = -48.0;
+                double beta = 48.0;
                 bool computer = true;
                 for (int col = 0; col < Board.NR_COLS; ++col)
                 {

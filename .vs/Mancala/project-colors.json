@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7ba8edb4-a8fb-4386-94b2-351d4ab1a154": {
+      "ProjectGuid": "7ba8edb4-a8fb-4386-94b2-351d4ab1a154",
+      "DisplayName": "Mancala",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
